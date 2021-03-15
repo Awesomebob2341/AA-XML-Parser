@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AA-XML-Parser", "AA-XML-Parser\AA-XML-Parser.csproj", "{345F8DDE-4785-4660-91BA-9B77105CC38D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{345F8DDE-4785-4660-91BA-9B77105CC38D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345F8DDE-4785-4660-91BA-9B77105CC38D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345F8DDE-4785-4660-91BA-9B77105CC38D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345F8DDE-4785-4660-91BA-9B77105CC38D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C384FA5D-FD7C-4FC6-8A3F-837A9A5CE88D}
+	EndGlobalSection
+EndGlobal
